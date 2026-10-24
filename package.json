@@ -1,5 +1,5 @@
 {
-  "name": "@red-cup-engineering/dcity-engineering-services-section",
+  "name": "@red-cup-engineering/dcity-services-section",
   "version": "0.1.2",
   "type": "module",
   "description": "Read-only dCity recovery pricing: exact-arithmetic quoting of the closed dCity token's live SIM/SWAP.HIVE Hive-Engine pool exit, leaving CITY NFT custody untouched.",
